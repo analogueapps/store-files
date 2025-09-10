@@ -165,6 +165,13 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 - Protect the personal safety of Users of the Service or the public
 - Protect against legal liability
 
+#### Device or Other Identifiers
+We may collect and process certain device identifiers such as Advertising ID, Android ID, IMEI (where applicable), MAC address, or other unique device identifiers. These are used to:
+- Enable app functionality (e.g., authentication, push notifications)
+- Improve app performance and analytics
+- Prevent fraud and enhance security
+This information may be collected automatically by our service providers such as Firebase or other analytics tools.
+
 ### Security of Your Personal Data
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
