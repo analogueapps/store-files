@@ -33,7 +33,7 @@ To deliver the best experience, Zipck may request:
 ### 4. Privacy & Security
 
 * We **do not** sell your data to third parties.
-* All your personal information is handled as per our [Privacy Policy](https://zipck.in/privacy).
+* All your personal information is handled as per our [Privacy Policy](https://github.com/analogueapps/store-files/blob/main/zipck/privacy-policy.md).
 * You can request data deletion at any time via email.
 
 ---
@@ -42,7 +42,7 @@ To deliver the best experience, Zipck may request:
 
 **Email:** [zipckmobileapplication@gmail.com](mailto:zipckmobileapplication@gmail.com)
 **Website:** [https://zipck.in](https://zipck.in)
-**Support Page:** [https://zipck.in/support](https://zipck.in/support)
+**Support Page:** [https://github.com/analogueapps/store-files/blob/main/zipck/support.md](https://github.com/analogueapps/store-files/blob/main/zipck/support.md)
 
 ---
 
